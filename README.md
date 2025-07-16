@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darkurthe
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning python and pwershell
+- 👀 I’m interested in gaming and protyping product ideas
+- 🌱 I’m currently learning more python and powershell
 - 💞️ I’m looking to collaborate on nothing
 - ⚡ Fun fact: I am a product person, but like to noodle with code
 
